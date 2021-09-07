@@ -1,0 +1,1 @@
+{"version":3,"sources":["src\\style.scss"],"names":[],"mappings":"AAEA,QACI","file":"style.ed2ac211.css","sourceRoot":"..","sourcesContent":["$clr-primary: purple;\r\n\r\n.header {\r\n    color: $clr-primary;\r\n}"]}

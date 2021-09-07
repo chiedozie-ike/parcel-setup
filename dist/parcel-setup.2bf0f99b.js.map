@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.js"],"names":["console","log","alert"],"mappings":";AAAAA,QAAQC,IAAI,6BACZC,MAAM","file":"parcel-setup.2bf0f99b.js","sourceRoot":"..","sourcesContent":["console.log('console log from index.js')\r\nalert('alert from index.js')"]}
